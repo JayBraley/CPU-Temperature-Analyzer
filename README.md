@@ -5,7 +5,6 @@ This program accepts a set of CPU temperature readings from each CPU core. For e
 
 - A piecewise linear interpolation
 - A global linear least squares approximation
-- A cubic spline interpolation (Optional requirement)
 
 ## Requirements
 
