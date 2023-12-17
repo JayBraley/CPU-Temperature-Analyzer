@@ -1,0 +1,4 @@
+parseTempsDemo.py
+*.zip
+__pycache__
+sample-input-core*
