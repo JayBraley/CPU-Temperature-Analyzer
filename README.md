@@ -21,7 +21,7 @@ For example, data for 4 CPU cores at 2 different times would be stored as follow
 
 ~~~
 times = [0, 30]
-core_readings = [[61, 81],[57, 91],[39, 70],[68, 45],]
+core_readings = [[61, 81],[57, 91],[39, 70],[68, 45]]
 ~~~
 
 # Sample Execution & Output	
@@ -31,7 +31,7 @@ any additional information. For each CPU core, a .txt file of processed data is 
 An example of a valid program command is
 
 ~~~			
-temp_analyzer.py input-file.txt
+cpu_temp_analyzer.py input-file.txt
 ~~~
 
 with the contents of input-file.txt being
